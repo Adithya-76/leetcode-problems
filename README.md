@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 ## Matrix
 |  |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
