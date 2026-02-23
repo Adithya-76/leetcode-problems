@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Adithya-76/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Adithya-76/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
