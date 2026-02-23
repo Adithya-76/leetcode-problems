@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Adithya-76/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
+| [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Adithya-76/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->
