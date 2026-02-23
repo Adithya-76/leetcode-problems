@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Adithya-76/leetcode-problems/tree/master/0401-binary-watch) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adithya-76/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0799-champagne-tower](https://github.com/Adithya-76/leetcode-problems/tree/master/0799-champagne-tower) |
 | [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Adithya-76/leetcode-problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
