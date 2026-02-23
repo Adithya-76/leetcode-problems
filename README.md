@@ -65,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0799-champagne-tower](https://github.com/Adithya-76/leetcode-problems/tree/master/0799-champagne-tower) |
 | [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->
