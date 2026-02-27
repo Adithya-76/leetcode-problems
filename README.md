@@ -12,9 +12,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adithya-76/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0696-count-binary-substrings](https://github.com/Adithya-76/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adithya-76/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adithya-76/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1929-concatenation-of-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/0761-special-binary-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
