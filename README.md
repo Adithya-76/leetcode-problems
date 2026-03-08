@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adithya-76/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adithya-76/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adithya-76/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adithya-76/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Adithya-76/leetcode-problems/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
