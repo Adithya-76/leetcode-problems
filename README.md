@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adithya-76/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
 | ------- |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adithya-76/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
