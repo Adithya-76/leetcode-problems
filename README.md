@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Adithya-76/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 ## Matrix
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adithya-76/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adithya-76/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adithya-76/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adithya-76/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adithya-76/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
