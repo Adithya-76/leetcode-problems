@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Adithya-76/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adithya-76/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adithya-76/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1622-fancy-sequence](https://github.com/Adithya-76/leetcode-problems/tree/master/1622-fancy-sequence) |
