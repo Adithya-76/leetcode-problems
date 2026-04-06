@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Adithya-76/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adithya-76/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0874-walking-robot-simulation](https://github.com/Adithya-76/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adithya-76/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adithya-76/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Adithya-76/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Adithya-76/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adithya-76/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adithya-76/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
