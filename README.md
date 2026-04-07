@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adithya-76/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Adithya-76/leetcode-problems/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Adithya-76/leetcode-problems/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
