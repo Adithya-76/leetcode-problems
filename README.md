@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adithya-76/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adithya-76/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adithya-76/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -181,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Adithya-76/leetcode-problems/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
