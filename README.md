@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adithya-76/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/Adithya-76/leetcode-problems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -276,5 +277,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adithya-76/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [2751-robot-collisions](https://github.com/Adithya-76/leetcode-problems/tree/master/2751-robot-collisions) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adithya-76/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
