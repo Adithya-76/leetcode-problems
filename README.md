@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adithya-76/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adithya-76/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adithya-76/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Adithya-76/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adithya-76/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adithya-76/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/Adithya-76/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adithya-76/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/Adithya-76/leetcode-problems/tree/master/2536-increment-submatrices-by-one) |
 | [2573-find-the-string-with-lcp](https://github.com/Adithya-76/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
