@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Adithya-76/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adithya-76/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adithya-76/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adithya-76/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adithya-76/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
