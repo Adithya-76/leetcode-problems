@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adithya-76/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adithya-76/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/Adithya-76/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adithya-76/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adithya-76/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Adithya-76/leetcode-problems/tree/master/0874-walking-robot-simulation) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0799-champagne-tower](https://github.com/Adithya-76/leetcode-problems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Adithya-76/leetcode-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adithya-76/leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -307,10 +310,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Adithya-76/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [2751-robot-collisions](https://github.com/Adithya-76/leetcode-problems/tree/master/2751-robot-collisions) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Adithya-76/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
