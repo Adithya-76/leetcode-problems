@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0396-rotate-function](https://github.com/Adithya-76/leetcode-problems/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Adithya-76/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adithya-76/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/Adithya-76/leetcode-problems/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/Adithya-76/leetcode-problems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Adithya-76/leetcode-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adithya-76/leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Adithya-76/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0396-rotate-function](https://github.com/Adithya-76/leetcode-problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adithya-76/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adithya-76/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1622-fancy-sequence](https://github.com/Adithya-76/leetcode-problems/tree/master/1622-fancy-sequence) |
