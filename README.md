@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Adithya-76/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Adithya-76/leetcode-problems/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/Adithya-76/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/Adithya-76/leetcode-problems/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/Adithya-76/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adithya-76/leetcode-problems/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Adithya-76/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Adithya-76/leetcode-problems/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Adithya-76/leetcode-problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adithya-76/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Adithya-76/leetcode-problems/tree/master/0788-rotated-digits) |
