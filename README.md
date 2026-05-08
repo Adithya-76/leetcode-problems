@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Adithya-76/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adithya-76/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adithya-76/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adithya-76/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adithya-76/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3640-trionic-array-ii](https://github.com/Adithya-76/leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adithya-76/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adithya-76/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adithya-76/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adithya-76/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adithya-76/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adithya-76/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adithya-76/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adithya-76/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adithya-76/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adithya-76/leetcode-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adithya-76/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adithya-76/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
